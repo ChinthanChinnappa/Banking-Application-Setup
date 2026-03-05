@@ -200,7 +200,7 @@ Possible enhancements:
 
 # 👨‍💻 Author
 
-**Chinthan Chinnappa Pattada**
+**Chinthan Chinnappa P T**
 
 Computer Science Engineering Student
 Interested in:
